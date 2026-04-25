@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEEP - Алгоритм псевдослучайных чисел.md",
+                "file": "ALIGN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура DEEP - Алгоритм псевдослучайных чисел"
+              "title": "Структура ALIGN"
             }
           }
         ],
@@ -271,13 +271,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "41c8936f1c1bf85e",
+  "active": "34fe2bd174532757",
   "lastOpenFiles": [
-    "curr state.md",
     "tmp.md",
+    "curr state.md",
     "DEEP - Алгоритм псевдослучайных чисел.md",
-    "ALIGN.md",
     "STEP.md",
+    "ALIGN.md",
     "DONE.ipynb",
     "ТЗ.md",
     "README.md",
