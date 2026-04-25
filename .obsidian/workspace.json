@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "34fe2bd174532757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ALIGN.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +48,37 @@
               "icon": "lucide-file",
               "title": "ALIGN"
             }
+          },
+          {
+            "id": "944838d7733b63f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STEP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STEP"
+            }
+          },
+          {
+            "id": "ff5beb971599ca7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tmp"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,8 +151,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALIGN.md",
-                "collapseAll": false,
+                "file": "STEP.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ALIGN"
+              "title": "Обратные ссылки для STEP"
             }
           },
           {
@@ -128,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALIGN.md",
+                "file": "STEP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из ALIGN"
+              "title": "Исходящие ссылки из STEP"
             }
           },
           {
@@ -171,24 +213,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALIGN.md",
+                "file": "tmp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ALIGN"
+              "title": "Структура tmp"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -198,10 +242,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "687b0ceefd446d64",
+  "active": "ff5beb971599ca7d",
   "lastOpenFiles": [
-    "__sandbox.ipynb",
+    "ALIGN.md",
+    "STEP.md",
+    "tmp.md",
     "ТЗ.md",
-    "ALIGN.md"
+    "README.md",
+    "requirements.txt",
+    "__sandbox.ipynb"
   ]
 }

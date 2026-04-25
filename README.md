@@ -1,11 +1,11 @@
-# Metric Methods: Iris Classification
+# Metric Methods: WIne Classification
 
-Metric classification with kNN and distance-based methods on the Iris dataset — built with **STEP flow ALIGN** methodology.
+Metric classification with kNN and distance-based methods on the Wine dataset — built with **STEP flow ALIGN** methodology.
 
 ## 🧩 A.L.I.G.N. — alignment
 
-- **A** — classify Iris species with metric methods (kNN, distances, window functions)
-- **L** — sklearn Iris, hold-out, cross-validation, hyperparameter search
+- **A** — classify Wine species with metric methods (kNN, distances, window functions)
+- **L** — sklearn Wine, hold-out, cross-validation, hyperparameter search
 - **I** — Python + scikit-learn + matplotlib
 - **G** — data exploration → kNN from scratch → evaluation → visualization
 - **N** — confirmed? ✓
