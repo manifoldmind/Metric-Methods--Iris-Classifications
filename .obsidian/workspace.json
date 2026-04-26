@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEEP — Теория по accuracy (- доле правильных ответов).md",
+                "file": "STEP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура DEEP — Теория по accuracy (- доле правильных ответов)"
+              "title": "Структура STEP"
             }
           }
         ],
@@ -298,11 +298,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "19a252953e0e4eb1",
+  "active": "34fe2bd174532757",
   "lastOpenFiles": [
-    "DEEP — Теория по кросс-валидации.md",
-    "DEEP — Теория по accuracy (- доле правильных ответов).md",
+    "Pasted image 20260426211115.png",
     "ALIGN.md",
+    "DEEP — Теория по accuracy (- доле правильных ответов).md",
+    "DEEP — Теория по кросс-валидации.md",
     "STEP.md",
     "tmp.md",
     "curr state.md",
